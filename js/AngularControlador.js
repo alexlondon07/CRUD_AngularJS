@@ -1,6 +1,5 @@
 $appModulo = angular.module('appModulo', []);
-//var base_path = 'http://localhost/Angular/';//Definir path
-var base_path = 'http://localhost:3000/Github/AngujarJs-master/';//Definir path
+var base_path = 'http://localhost:8080/Github/CRUD_AngularJS/';//Definir path
 
 $appModulo.controller('Controlador',function($scope, $http){
 	$scope.post = {};

@@ -1,9 +1,9 @@
 <?php
 
 $DB_host = "localhost";
-$DB_user = "root";
-$DB_pass = "";
-$DB_name = "test";
+$DB_user = "crudangular_user";
+$DB_pass = "crudangular_user";
+$DB_name = "crudangular_user";
 
 
 try
